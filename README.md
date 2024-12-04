@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm <a href="https://fowlerlee.github.io/Me.io/" target="blank">
-Lee Fowler</a></h1>
-<h3 align="center">A passionate Full Stack App developer based in Stockholm, Sweden</h3>
+Henry Liu</a></h1>
+<h3 align="center">A passionate developer</h3>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working on opensource Dapr and do TLA+ specifications for blockchain projects <a href="https://dapr.io" target="blank">Dapr</a>
-
-- 🌱 I’m currently Working on a Mobile app (React Native + Java-Spring + Go + PostgreSql)
+- 🔭 I’m currently working on database projects <a href="https://dapr.io" target="blank">Dapr</a>
 
 - 🤝 I’m available for freelancing.
 
@@ -16,9 +14,7 @@ Lee Fowler</a></h1>
 
 - 📝 See my blogs on my Portfolio: [fowlerlee.github.io/fowlerleee](https://fowlerlee.github.io/fowlerlee/)
 
-- 💬 Ask me about **Java & JVM & Go & Rust & concurrency & React-Native**
-
-- 📫 How to reach me **fowler.lee8@gmail.com**
+- 📫 How to reach me **liu.smallfatboy@gmail.com**
 
 - 📄 See my Education and Experience  on my <a href="https://github.com/fowlerlee/fowlerlee/blob/main/images/leecv.png" target="blank">Resume</a>
 <br/>
@@ -37,18 +33,3 @@ Lee Fowler</a></h1>
   </div>
 
 </p>
-
-### Youtube tutorials
-
-<!-- BLOG-POST-LIST:START -->
-
-- [PlusCal and Golang design of Kubernetes](https://www.youtube.com/watch?v=hbVHDbVPPo4)
-- [Learn Rust Memory Fence once and for all](https://www.youtube.com/watch?v=a3TJDhr6KIE)
-- [Learn Rust Atomics once and for all](https://www.youtube.com/watch?v=17j32kn6DQQ)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-Credit: [Saurabh Chavan](https://github.com/100rabhcsmc)
-
-Last Edited on: 08/08/2022
