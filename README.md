@@ -10,16 +10,10 @@ Henry Liu</a></h1>
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning Distributed Algorithms Dijkstra's EWD's and Lamport´s works. I love concurrency, caches, OS dev, linearizability and consistency.
-
-- 📝 See my blogs on my Portfolio: [fowlerlee.github.io/fowlerleee](https://fowlerlee.github.io/fowlerlee/)
-
 - 📫 How to reach me **liu.smallfatboy@gmail.com**
 
 - 📄 See my Education and Experience  on my <a href="https://github.com/fowlerlee/fowlerlee/blob/main/images/leecv.png" target="blank">Resume</a>
 <br/>
-
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
 
